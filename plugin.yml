@@ -1,0 +1,7 @@
+name: XGTSmithingTable
+main: XGDAVID\XGTSmithingTable\Main
+version: 1.0.0
+api: [ 5.0.0 ]
+author: XGDAVID fghfgh
+website: https://github.com/xgdavid/XGTSmithingTable
+description: Adds Smithing Table functionality
