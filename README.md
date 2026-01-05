@@ -18,5 +18,3 @@ A PocketMine-MP plugin that implements the Smithing Table functionality
 ## Issues
 
 Found a bug or have a suggestion? Open an issue on [GitHub Issues](https://github.com/xgdavid/XGTSmithingTable/issues).
-
-
